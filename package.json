@@ -1,0 +1,14 @@
+{
+  "name": "plaid",
+  "version": "1.0.0",
+  "description": "plaid",
+  "main": "plaid_exercise_2.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "StefonSimmons",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.2.1"
+  }
+}
